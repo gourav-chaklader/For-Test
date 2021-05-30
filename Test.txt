@@ -7,3 +7,4 @@ this is another new sentence.
 
 this is not a sentence.
 
+this is a sentence from gitbash.
